@@ -9,7 +9,7 @@ The main parts of this program to learn are the following:
 - The use of namespaces on line 8.
 - The use of `std:cout` to output text to the screen.
 - Use of `endln` in screen output.
-- Use of the directional Operator `<<` on line 12.
+- Use of the Extraction Operator `<<` on line 12.
 - The `return` value, which is `0` for this program.
 
 This program simply prints the words to the screen. 
