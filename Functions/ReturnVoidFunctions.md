@@ -1,4 +1,4 @@
-# ReturningVoidFunctions.cpp
+# ReturnVoidFunctions.cpp
 
 This program functionality of this program is to return from a function
 that returns `void`. The definition of the function needs to be preceeded
