@@ -10,4 +10,4 @@ The function call looks like this:
     DemoTextOutput();
 ```
 
-[Return](../README.md)
+[Return](../)

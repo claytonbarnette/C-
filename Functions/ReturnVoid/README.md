@@ -12,4 +12,4 @@ void DemoVoidFunction()
 }
 ```
 
-[Return](../README.md)
+[Return](../)
